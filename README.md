@@ -1,4 +1,4 @@
-# Mutually-Exclusive-Group-Sparsity
+# Mutually-Exclusive-Group-Sparsity (MEGS)
 Source code for: "MEGS: A Penalty for Mutually Exclusive Group Sparsity"
 
 Authors: Charles Saunders and Vivek K Goyal
